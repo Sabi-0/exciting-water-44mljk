@@ -1,0 +1,1 @@
+Hola, q pesado, no entendi al final si puedo hacer todo desde aqui(sandbox a github) o desde git con la terminal de windows 
